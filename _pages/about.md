@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: > MS candidate @ <a href="http://www.iitkgp.ac.in/">
-	Indian Institute of Technology Kharagpur
-</a>
+description:MS candidate @ <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology Kharagpur</a>
 
 profile:
   align: right
