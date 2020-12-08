@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: > 
-  <p>Kharagpur Learning, Imaging & Visualization (KLIV) research group</p>
+    <p>Kharagpur Learning, Imaging & Visualization (KLIV) research group</p>
 
 
 news: true  # includes a list of news items
