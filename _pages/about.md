@@ -6,7 +6,8 @@ description: <a href="#">MS Candidate @ Indian Institute of Technology Kharagpur
 profile:
   align: right
   image: prof_pic.jpg
-  address: > <p>Kharagpur Learning, Imaging & Visualization (KLIV) research group</p>
+  address: > 
+  <p>Kharagpur Learning, Imaging & Visualization (KLIV) research group</p>
 
 
 news: true  # includes a list of news items
